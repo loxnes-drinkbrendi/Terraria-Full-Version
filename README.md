@@ -252,4 +252,4 @@ This repository serves as the official landing page for Terraria. The software i
 **Get the most recent version of Terraria today!**
 
 ---
-**Last updated:** 2026-09-25 11:14:28 UTC
+**Last updated:** 2026-09-25 16:37:56 UTC
